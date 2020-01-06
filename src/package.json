@@ -1,0 +1,26 @@
+{
+  "name": "simple-logger",
+  "version": "0.0.0",
+  "description": "simple logger module with logging level and middleware capability",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ResearcherOne/logger-module.git"
+  },
+  "keywords": [
+    "simple",
+    "logger",
+    "module",
+    "middleware",
+    "level"
+  ],
+  "author": "birkan kolcu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ResearcherOne/logger-module/issues"
+  },
+  "homepage": "https://github.com/ResearcherOne/logger-module#readme"
+}
